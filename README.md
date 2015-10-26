@@ -21,4 +21,4 @@
 
 ## Readings
 
-1. [Nelder & Wdderburn, 1972, JRSS-A](readings/Nelder-Wedderburn-1972-JRSSA.pdf)
+1. [Nelder & Wedderburn, 1972, JRSS-A](readings/Nelder-Wedderburn-1972-JRSSA.pdf)
