@@ -1,5 +1,11 @@
 # Biostat 778: Advanced Statistical Computing
 
+Instructor: Roger Peng
+
+Classroom: W2009
+
+Time: MW 10:30-11:50am
+
 ## Schedule
 
 1. Optimization, Newton's method
